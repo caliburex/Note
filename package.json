@@ -1,0 +1,27 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "🎉🎉🎉",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliburex/Note.git"
+  },
+  "author": "calibur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caliburex/Note/issues"
+  },
+  "homepage": "https://github.com/caliburex/Note#readme",
+  "dependencies": {
+    "commitizen": "^4.0.3"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
